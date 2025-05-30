@@ -87,14 +87,3 @@ streamlit run app.py
 ├── README.md              # Ce fichier
 └── screenshot.png         # Capture d'écran (optionnel)
 ```
-
-## ✅ À faire (améliorations futures)
-
-- Ajouter une détection automatique de champs mal lus (corrections OCR)
-- Gérer les bulletins multi-pages
-- Ajouter une base de données pour historiser les extractions
-- Authentification utilisateur
-
-## 👨‍💻 Auteur
-
-Ton nom – [Ton LinkedIn](https://www.linkedin.com)
